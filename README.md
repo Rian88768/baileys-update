@@ -41,21 +41,26 @@ This fork designed for production use with a focus on clarity and safety:
 > 
 > Some npm packages are reuploading my fork under different names, with almost no meaningful changes:
 > 
-> - [@itsmelody](https://www.npmjs.com/package/@itsmelody/baileys)
+> - [@nuisockets](https://www.npmjs.com/package/@nuisockets/baileys)
 > - [@kaels](https://www.npmjs.com/package/@kaels/casileys)
 > - [@lumina-md](https://www.npmjs.com/package/@lumina-md/baileys)
 > 
 > They:
 > 
-> - Renamed my fork
+> - Renamed my fork under different package names
+> - Removed or ignored proper maintainer credit
 > - Added unnecessary overhead
-> - Rewrote all changelogs and note changes with their own names
-> - Claimed the modifications as their own work
+> - Rewrote changelogs and modification notes under their own names
+> - Claimed existing work and changes as if they made them
+> - Copied code directly from my fork with little to no meaningful modification
 > 
 > This is not acceptable.
 > 
-> To be clear, I am not the original maintainer of Baileys (full respect to https://github.com/WhiskeySockets/Baileys).
-> **This is about proper attribution and honesty in contributions.**
+> To be clear, I am **NOT** the original maintainer of Baileys. full respect goes to https://github.com/WhiskeySockets/Baileys.
+>
+> **This issue is about attribution, honesty, and respecting open-source contributions.**
+>
+> Forking is completely fine. Removing credits and presenting someone else's work as your own is not.
 > 
 > Please report if necessary.
 > 
