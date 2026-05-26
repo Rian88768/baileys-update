@@ -274,7 +274,7 @@ connectToWhatsApp()
 #### 🔐 Auth State
 
 > [!NOTE]
-> You can use the experimental `useSingleFileAuthState` as an alternative to `useMultiFileAuthState`. However, `useSingleFileAuthState` already includes an internal caching mechanism, so there is no need to wrap `state.keys` with `makeCacheableSignalKeyStore`.
+> You can use the experimental `useSingleFileAuthState` and `useSqliteAuthState` as an alternative to `useMultiFileAuthState`. However, `useSingleFileAuthState` already includes an internal caching mechanism, so there is no need to wrap `state.keys` with `makeCacheableSignalKeyStore`.
 
 ### 🗄️ Implementing Data Store
 
