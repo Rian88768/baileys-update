@@ -45,6 +45,7 @@ This fork designed for production use with a focus on clarity and safety:
 > - [@nuiisatoru](https://www.npmjs.com/package/@nuiisatoru/baileys)
 > - [@nuiisweetberry](https://www.npmjs.com/package/@nuiisweetberry/baileys)
 > - [@lumina-md](https://www.npmjs.com/package/@lumina-md/baileys)
+> - [@sairidev](https://www.npmjs.com/package/@sairidev/baileys-new)
 > 
 > They:
 > 
